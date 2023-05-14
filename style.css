@@ -1,4 +1,39 @@
 
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    padding-top: 50px;
+    margin-bottom: 0;
+    font-size: 5.625rem;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-size: 2.5rem;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-size: 2rem;
+}
+p {
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #40514E;
+    text-align: left;
+    line-height: 2;
+    
+}
+hr {
+    border: dotted 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 50px auto;
+}
+
 .container {
     margin: 0;
     background-color: #EAF6F6;
@@ -7,20 +42,89 @@
     text-align: center;
     font-family: 'Merriweather', serif;
 }
-h1 {
-    font-family: 'Sacramento', cursive;
-}
-h2, h3 {
+
+.top {
+    font-size: 1rem;
     font-family: 'Montserrat', sans-serif;
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+    text-align: center;
 }
+
 .top-cloud {
     position: absolute;
     right: 200px;
-   
+
 
 }
+
 .bottom-cloud {
     position: absolute;
     bottom: 300px;
     left: 300px;
+}
+
+
+.middle-containar {
+    background-color: #ddebe7;
+    text-align: center;
+    padding: 50px;   
+}
+
+.me,
+.mee,
+.meet {
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+}
+
+.mee {
+    float: left;
+    margin-right: 30px;
+}
+
+.meet {
+    float: right;
+    margin-left: 30px;
+}
+
+.work {
+    width: 50%;
+    margin: 100px auto 0;
+}
+.btn {
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    height: 30px;
+    width: 150px;
+    padding-top: 10px;
+    border-radius: 8px;
+    margin: 0 auto;
+}
+.btn:hover {
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+}
+.btnt {
+    text-decoration: none;
+    color: #EAF6F6;
+}
+.footer {
+    background-color: #66BFBF;
+    text-align: center;
+    padding: 50px;
+}
+.footer-link {
+    color: #11999E;
+    margin: 0 30px;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+.footer-link:hover{
+    color: #EAF6F6;
+}
+.footer-copyright {
+    padding-top: 20px;
+    text-align: center;
+    color: #EAF6F6;
 }
