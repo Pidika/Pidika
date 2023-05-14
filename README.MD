@@ -1,5 +1,5 @@
-+ This is my first project
-+ Using just html and css 
-+ will try and make it Responsive after i might have finished 
-+ Your contibutions and corrections are welcome
-+ I'm open to constructive critise 
++ This is my first project, and 
++ I'm only using HTML and CSS.
++ I'll try to make it responsive once I'm done.
++ I welcome your contributions and revisions.
++ I welcome constructive feedback.
